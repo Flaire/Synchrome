@@ -1,6 +1,7 @@
 {
 	"name": "synchrome",
-	"version": "1.0.0",
+	"version": "1.0.1",
+	"main": "src/index.js",
 	"dependencies": {
 		"ws": "^3.1.0"
 	}
